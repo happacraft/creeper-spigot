@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/creeper-spigot.iml" filepath="$PROJECT_DIR$/creeper-spigot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/creeper-spigot_main.iml" filepath="$PROJECT_DIR$/.idea/modules/creeper-spigot_main.iml" group="creeper-spigot" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/creeper-spigot_test.iml" filepath="$PROJECT_DIR$/.idea/modules/creeper-spigot_test.iml" group="creeper-spigot" />
+    </modules>
+  </component>
+</project>

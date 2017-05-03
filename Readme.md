@@ -1,5 +1,5 @@
 ```
-$ gie clone git@github.com:xsota/creeper-spigot.git
+$ git clone git@github.com:xsota/creeper-spigot.git
 $ cd creeper-spigot
 $ docker-compose up
 $ echo eula=true > app/eula.txt
